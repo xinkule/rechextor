@@ -24,7 +24,6 @@ class App extends React.Component {
             'italic',
             'underline',
             'strikethrough',
-            'image',
             'tag',
             'blockquote',
             'line'
