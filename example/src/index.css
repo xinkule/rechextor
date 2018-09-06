@@ -1,0 +1,32 @@
+body {
+  margin: 50px 50px;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+  width: 640px;
+  text-align: center;
+}
+
+header {
+  color: palevioletred;
+}
+
+h1 {
+  margin: 0;
+  font-size: 48px;
+}
+
+h3 {
+  margin-top: 0;
+  font-weight: lighter;
+}
+
+.Rechextor {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.Rechextor-editor {
+  height: 400px;
+}
